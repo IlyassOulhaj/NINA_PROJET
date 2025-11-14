@@ -7,16 +7,14 @@ public class AnnuaireServer {
     
     private static final int PORT = 12345; 
 
-    // 1. 🗺️ L'Annuaire (Stockage des Contacts) - BQA KIMA HOWA
+
     public static final Map<String, Contact> annuaire = new ConcurrentHashMap<>();
 
-    // 2. 🔗 Le Registre des Clients Actifs (Nécessaire pour la Messagerie)
-    // --- TGHAYIR (CHANGE) ---
-    // Mabqach 'Object', wela 'ClientHandler'
+    
     public static final Map<String, ClientHandler> activeClientHandlers = new ConcurrentHashMap<>();
     
     
-    // --- LOGIQUE ADD (Membre 2) - BQA KIMA HOWA ---
+
     public static String handleAddCommand(String[] parts) {
         if (parts.length != 4) {
             return "ERROR: Syntax ADD invalide. Utilisation: ADD Nom Tel Email";
