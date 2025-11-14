@@ -1,5 +1,6 @@
 # 💫 About Us:
-## Group Members : 
+## <img width="512" height="512" alt="9217629" src="https://github.com/user-attachments/assets/a7899aff-ff88-422c-9c57-406a488e2f00" />
+Group Members : 
 ### Ayoub Chmilla 
 ### Ilyass Oulhaj
 ### Daoud Ahbachou
