@@ -107,7 +107,7 @@ Le serveur répond aux commandes textuelles suivantes (envoyées via un client T
 
 # 👩‍🏫 Project Presentation : 
 
-[link](C:\Users\Ilyass-Pc\Desktop\Serveur Annuaire + Messages.pptx)
+![](https://docs.google.com/presentation/d/1y6jm2PewqH9c8HOJOGu6MqF-2CH1t4oEocq9cmNZJ2k/edit?slide=id.p1#slide=id.p1)
       
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
