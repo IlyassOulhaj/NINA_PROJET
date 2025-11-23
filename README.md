@@ -102,9 +102,11 @@ Le serveur répond aux commandes textuelles suivantes (envoyées via un client T
         *Réponse (Terminal A) : `OK: Message envoyé à Bouchra`*
         *Réponse (Terminal B) : `MESSAGE_FROM Ali: Bonjour!`*
       
-# 📋 Project Report : https://drive.google.com/file/d/1XoRmr-P2pFF71KAGdJDg-_gpFW0UbzR7/view?usp=sharing
+# 📋 Project Report : 
+   ### https://drive.google.com/file/d/1XoRmr-P2pFF71KAGdJDg-_gpFW0UbzR7/view?usp=sharing
 
-# 👩‍🏫 Project Presentation : https://docs.google.com/presentation/d/1y6jm2PewqH9c8HOJOGu6MqF-2CH1t4oEocq9cmNZJ2k/edit?usp=sharing
+# 👩‍🏫 Project Presentation : 
+   ### https://docs.google.com/presentation/d/1y6jm2PewqH9c8HOJOGu6MqF-2CH1t4oEocq9cmNZJ2k/edit?usp=sharing
       
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
