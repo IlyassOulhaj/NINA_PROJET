@@ -1,10 +1,10 @@
 # 💫 About Us:
 ## <img width="32" height="32" alt="group" src="https://github.com/user-attachments/assets/408ca25f-d27a-40b2-98da-a667cb8175bc" /> Group Members : 
-### - Ayoub Chmilla 
-### - Ilyass Oulhaj
+### - Ayoub Chmilla : https://github.com/chmillaayoub
+### - Ilyass Oulhaj : https://github.com/IlyassOulhaj
 ### - Daoud Ahbachou : https://github.com/Thegoat1111-afk
 ### - Ali Anoya
-### - Abderhmane Aroussi
+### - Abderhmane Aroussi : https://github.com/Abderrahmane-Aroussi
 
 # 🚀 Projet: Serveur Annuaire & Messagerie Simple (Java)
 
